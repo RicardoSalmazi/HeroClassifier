@@ -1,2 +1,2 @@
 # HeroClassifier
-Desafio proposto formação Dio.me em JS, utilizando apenas estruturas if/else
+Desafio proposto formação Dio.me em JS, utilizando apenas estruturas if/else. Professor Felipão, não deu pra usar o git. Segui todas as instruções, mas deu erro na conexão do git com o github (óbvio, não deu pra entender!). Mas é qualquer coisa que diz respeito a ter que utilizar um pull antes do push, conflito entre nomes, etc. Deletei as credenciais antigas do Windows mas mesmo assim não funcionou. Subi o arquivo manualmente pelo Github, paciência! Abraço, RS.
